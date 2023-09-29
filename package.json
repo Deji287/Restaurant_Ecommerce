@@ -1,0 +1,17 @@
+{
+  "name": "store-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omotola F Oladimeji",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.1",
+    "minimist": "^1.2.8",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  }
+}
